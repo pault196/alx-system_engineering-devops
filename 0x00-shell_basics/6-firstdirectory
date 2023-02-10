@@ -1,2 +1,2 @@
 #!/bin/bash
-.ls ls -l id ls -a
+mkdir /tmp/my_first_directory
